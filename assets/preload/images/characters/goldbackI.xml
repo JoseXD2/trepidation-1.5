@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goldbackI.png">
+<SubTexture name="idle0000" x="1260" y="0" width="308" height="415" frameX="-52" frameY="-23" frameWidth="384" frameHeight="450" />
+<SubTexture name="idle0001" x="0" y="848" width="318" height="408" frameX="-50" frameY="-30" frameWidth="384" frameHeight="450" />
+<SubTexture name="idle0002" x="318" y="848" width="326" height="408" frameX="-42" frameY="-30" frameWidth="384" frameHeight="450" />
+<SubTexture name="idle0003" x="942" y="422" width="315" height="417" frameX="-53" frameY="-21" frameWidth="384" frameHeight="450" />
+<SubTexture name="idle0004" x="942" y="0" width="318" height="422" frameX="-54" frameY="-16" frameWidth="384" frameHeight="450" />
+<SubTexture name="idle0005" x="317" y="424" width="322" height="423" frameX="-46" frameY="-14" frameWidth="384" frameHeight="450" />
+<SubTexture name="idle0006" x="0" y="0" width="313" height="424" frameX="-55" frameY="-13" frameWidth="384" frameHeight="450" />
+<SubTexture name="idle0007" x="313" y="0" width="317" height="424" frameX="-56" frameY="-13" frameWidth="384" frameHeight="450" />
+<SubTexture name="idle0008" x="630" y="0" width="312" height="424" frameX="-55" frameY="-13" frameWidth="384" frameHeight="450" />
+<SubTexture name="idle0009" x="0" y="424" width="317" height="424" frameX="-56" frameY="-13" frameWidth="384" frameHeight="450" />
+<SubTexture name="idle0010" x="0" y="424" width="317" height="424" frameX="-56" frameY="-13" frameWidth="384" frameHeight="450" />
+<SubTexture name="idle0011" x="0" y="424" width="317" height="424" frameX="-56" frameY="-13" frameWidth="384" frameHeight="450" />
+<SubTexture name="idle0012" x="0" y="424" width="317" height="424" frameX="-56" frameY="-13" frameWidth="384" frameHeight="450" />
+<SubTexture name="idle0013" x="0" y="424" width="317" height="424" frameX="-56" frameY="-13" frameWidth="384" frameHeight="450" />
+<SubTexture name="idle0014" x="0" y="424" width="317" height="424" frameX="-56" frameY="-13" frameWidth="384" frameHeight="450" />
+</TextureAtlas>

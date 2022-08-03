@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="operator.png">
+	
+	
+	<SubTexture name="operator_down instance 10000" x="0" y="0" width="787" height="702" frameX="-46" frameY="-67" frameWidth="836" frameHeight="793" />
+	<SubTexture name="operator_down instance 10001" x="0" y="0" width="787" height="702" frameX="-46" frameY="-67" frameWidth="836" frameHeight="793" />
+	<SubTexture name="operator_down instance 10002" x="0" y="0" width="787" height="702" frameX="-46" frameY="-67" frameWidth="836" frameHeight="793" />
+	<SubTexture name="operator_down instance 10003" x="787" y="0" width="795" height="696" frameX="-42" frameY="-73" frameWidth="836" frameHeight="793" />
+	<SubTexture name="operator_down instance 10004" x="1582" y="0" width="833" height="793" frameX="0" frameY="0" frameWidth="836" frameHeight="793" />
+	<SubTexture name="operator_down instance 10005" x="1582" y="0" width="833" height="793" frameX="0" frameY="0" frameWidth="836" frameHeight="793" />
+	<SubTexture name="operator_down instance 10006" x="1582" y="0" width="833" height="793" frameX="0" frameY="0" frameWidth="836" frameHeight="793" />
+	<SubTexture name="operator_left instance 10000" x="2415" y="0" width="476" height="923" frameX="-3" frameY="0" frameWidth="479" frameHeight="923" />
+	<SubTexture name="operator_left instance 10001" x="2415" y="0" width="476" height="923" frameX="-3" frameY="0" frameWidth="479" frameHeight="923" />
+	<SubTexture name="operator_left instance 10002" x="2415" y="0" width="476" height="923" frameX="-3" frameY="0" frameWidth="479" frameHeight="923" />
+	<SubTexture name="operator_left instance 10003" x="2891" y="0" width="474" height="923" frameX="0" frameY="0" frameWidth="479" frameHeight="923" />
+	<SubTexture name="operator_left instance 10004" x="3365" y="0" width="442" height="918" frameX="-31" frameY="-2" frameWidth="479" frameHeight="923" />
+	<SubTexture name="operator_left instance 10005" x="3365" y="0" width="442" height="918" frameX="-31" frameY="-2" frameWidth="479" frameHeight="923" />
+	<SubTexture name="operator_right instance 10000" x="0" y="923" width="383" height="966" frameX="-79" frameY="0" frameWidth="496" frameHeight="966" />
+	<SubTexture name="operator_right instance 10001" x="0" y="923" width="383" height="966" frameX="-79" frameY="0" frameWidth="496" frameHeight="966" />
+	<SubTexture name="operator_right instance 10002" x="0" y="923" width="383" height="966" frameX="-79" frameY="0" frameWidth="496" frameHeight="966" />
+	<SubTexture name="operator_right instance 10003" x="383" y="923" width="392" height="966" frameX="-79" frameY="0" frameWidth="496" frameHeight="966" />
+	<SubTexture name="operator_right instance 10004" x="775" y="923" width="496" height="945" frameX="0" frameY="-18" frameWidth="496" frameHeight="966" />
+	<SubTexture name="operator_right instance 10005" x="775" y="923" width="496" height="945" frameX="0" frameY="-18" frameWidth="496" frameHeight="966" />
+	<SubTexture name="operator_right instance 10006" x="775" y="923" width="496" height="945" frameX="0" frameY="-18" frameWidth="496" frameHeight="966" />
+	<SubTexture name="operator_right instance 10007" x="775" y="923" width="496" height="945" frameX="0" frameY="-18" frameWidth="496" frameHeight="966" />
+	<SubTexture name="operator_up instance 10000" x="1272" y="923" width="423" height="891" frameX="-12" frameY="-5" frameWidth="435" frameHeight="898" />
+	<SubTexture name="operator_up instance 10001" x="1272" y="923" width="423" height="891" frameX="-12" frameY="-5" frameWidth="435" frameHeight="898" />
+	<SubTexture name="operator_up instance 10002" x="1272" y="923" width="423" height="891" frameX="-12" frameY="-5" frameWidth="435" frameHeight="898" />
+	<SubTexture name="operator_up instance 10003" x="1695" y="923" width="421" height="895" frameX="-13" frameY="-2" frameWidth="435" frameHeight="898" />
+	<SubTexture name="operator_up instance 10004" x="2116" y="923" width="423" height="898" frameX="0" frameY="0" frameWidth="435" frameHeight="898" />
+	<SubTexture name="operator_up instance 10005" x="2116" y="923" width="423" height="898" frameX="0" frameY="0" frameWidth="435" frameHeight="898" />
+	<SubTexture name="oporator_idle instance 10000" x="2539" y="923" width="331" height="885" frameX="-10" frameY="0" frameWidth="347" frameHeight="887" />
+	<SubTexture name="oporator_idle instance 10001" x="2539" y="923" width="331" height="885" frameX="-10" frameY="0" frameWidth="347" frameHeight="887" />
+	<SubTexture name="oporator_idle instance 10002" x="2871" y="923" width="329" height="880" frameX="-11" frameY="-5" frameWidth="347" frameHeight="887" />
+	<SubTexture name="oporator_idle instance 10003" x="2871" y="923" width="329" height="880" frameX="-11" frameY="-5" frameWidth="347" frameHeight="887" />
+	<SubTexture name="oporator_idle instance 10004" x="2871" y="923" width="329" height="880" frameX="-11" frameY="-5" frameWidth="347" frameHeight="887" />
+	<SubTexture name="oporator_idle instance 10005" x="3200" y="923" width="344" height="868" frameX="-2" frameY="-17" frameWidth="347" frameHeight="887" />
+	<SubTexture name="oporator_idle instance 10006" x="3200" y="923" width="344" height="868" frameX="-2" frameY="-17" frameWidth="347" frameHeight="887" />
+	<SubTexture name="oporator_idle instance 10007" x="3200" y="923" width="344" height="868" frameX="-2" frameY="-17" frameWidth="347" frameHeight="887" />
+	<SubTexture name="oporator_idle instance 10008" x="3544" y="923" width="347" height="883" frameX="0" frameY="-4" frameWidth="347" frameHeight="887" />
+	<SubTexture name="oporator_idle instance 10009" x="3544" y="923" width="347" height="883" frameX="0" frameY="-4" frameWidth="347" frameHeight="887" />
+	<SubTexture name="oporator_idle instance 10010" x="3544" y="923" width="347" height="883" frameX="0" frameY="-4" frameWidth="347" frameHeight="887" />
+	<SubTexture name="oporator_idle instance 10011" x="3544" y="923" width="347" height="883" frameX="0" frameY="-4" frameWidth="347" frameHeight="887" />
+	<SubTexture name="oporator_idle instance 10012" x="3544" y="923" width="347" height="883" frameX="0" frameY="-4" frameWidth="347" frameHeight="887" />
+	<SubTexture name="oporator_idle instance 10013" x="3544" y="923" width="347" height="883" frameX="0" frameY="-4" frameWidth="347" frameHeight="887" />
+</TextureAtlas>

@@ -1,0 +1,44 @@
+{
+	"storyName": "He's Looking...",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "blank",
+	"weekBefore": "weekj",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"slendy",
+		"vig"
+	],
+	"songs": [
+		[
+			"Tall Figure",
+			"slender",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Slender",
+			"slender",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Sight",
+			"slender",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "weeks"
+}

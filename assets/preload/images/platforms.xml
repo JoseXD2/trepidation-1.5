@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="platforms.png">
+	
+	
+	<SubTexture name="platforms0000" x="0" y="0" width="631" height="203" pivotX="10" pivotY="0" />
+</TextureAtlas>

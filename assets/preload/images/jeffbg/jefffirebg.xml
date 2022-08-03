@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jefffirebg.png">
+	
+	
+	<SubTexture name="fire0000" x="0" y="0" width="1615" height="884" pivotX="700" pivotY="423" />
+	<SubTexture name="fire0001" x="0" y="0" width="1615" height="884" />
+	<SubTexture name="fire0002" x="1615" y="0" width="1615" height="884" />
+	<SubTexture name="fire0003" x="1615" y="0" width="1615" height="884" />
+	<SubTexture name="fire0004" x="0" y="884" width="1615" height="884" />
+	<SubTexture name="fire0005" x="0" y="884" width="1615" height="884" />
+</TextureAtlas>

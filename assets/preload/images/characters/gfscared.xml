@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfscared.png">
+<SubTexture name="scared0000" x="0" y="0" width="536" height="759" frameX="-42" frameY="-8" frameWidth="593" frameHeight="792" />
+<SubTexture name="scared0001" x="536" y="0" width="534" height="759" frameX="-44" frameY="-8" frameWidth="593" frameHeight="792" />
+<SubTexture name="scared0002" x="0" y="759" width="539" height="757" frameX="-41" frameY="-10" frameWidth="593" frameHeight="792" />
+<SubTexture name="scared0003" x="1070" y="0" width="531" height="759" frameX="-43" frameY="-8" frameWidth="593" frameHeight="792" />
+</TextureAtlas>

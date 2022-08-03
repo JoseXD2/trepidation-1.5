@@ -1,0 +1,53 @@
+{
+	"storyName": "ive seen him before...",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "blank",
+	"weekBefore": "weeks",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"trespasser",
+			"mands",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"no-hed-red",
+			"golddead",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"epicrapbattle",
+			"eminem",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"lullaby",
+			"jeff",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "weekidk"
+}

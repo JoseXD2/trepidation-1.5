@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sketchystaticman.png">
+	
+	
+	<SubTexture name="jumpstatic0000" x="0" y="0" width="321" height="181" pivotX="0" pivotY="0" />
+	<SubTexture name="jumpstatic0001" x="321" y="0" width="321" height="181" />
+	<SubTexture name="jumpstatic0002" x="642" y="0" width="321" height="181" />
+	<SubTexture name="jumpstatic0003" x="963" y="0" width="321" height="181" />
+	<SubTexture name="jumpstatic0004" x="1284" y="0" width="321" height="181" />
+	<SubTexture name="jumpstatic0005" x="1605" y="0" width="321" height="181" />
+	<SubTexture name="jumpstatic0006" x="0" y="181" width="321" height="181" />
+	<SubTexture name="jumpstatic0007" x="321" y="181" width="321" height="181" />
+	<SubTexture name="jumpstatic0008" x="642" y="181" width="321" height="181" />
+	<SubTexture name="jumpstatic0009" x="963" y="181" width="321" height="181" />
+	<SubTexture name="jumpstatic0010" x="1284" y="181" width="321" height="181" />
+	<SubTexture name="jumpstatic0011" x="1605" y="181" width="321" height="181" />
+	<SubTexture name="jumpstatic0012" x="0" y="362" width="321" height="181" />
+	<SubTexture name="jumpstatic0013" x="321" y="362" width="321" height="181" />
+	<SubTexture name="jumpstatic0014" x="642" y="362" width="321" height="181" />
+	<SubTexture name="jumpstatic0015" x="963" y="362" width="321" height="181" />
+	<SubTexture name="jumpstatic0016" x="1284" y="362" width="321" height="181" />
+	<SubTexture name="jumpstatic0017" x="1605" y="362" width="321" height="181" />
+	<SubTexture name="jumpstatic0018" x="0" y="543" width="321" height="181" />
+	<SubTexture name="jumpstatic0019" x="321" y="543" width="321" height="181" />
+	<SubTexture name="jumpstatic0020" x="642" y="543" width="321" height="181" />
+	<SubTexture name="jumpstatic0021" x="963" y="543" width="321" height="181" />
+	<SubTexture name="jumpstatic0022" x="1284" y="543" width="321" height="181" />
+	<SubTexture name="jumpstatic0023" x="1605" y="543" width="321" height="181" />
+</TextureAtlas>

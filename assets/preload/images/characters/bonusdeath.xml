@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bonusdeath.png">
+	
+	
+	<SubTexture name="deathloop0000" x="628" y="1006" width="628" height="335" pivotX="0" pivotY="0" />
+	<SubTexture name="deathloop0001" x="628" y="1006" width="628" height="335" />
+	<SubTexture name="deathloop0002" x="628" y="1006" width="628" height="335" />
+	<SubTexture name="deathloop0003" x="628" y="1006" width="628" height="335" />
+	<SubTexture name="deathloop0004" x="628" y="1006" width="628" height="335" />
+	<SubTexture name="deathloop0005" x="628" y="1006" width="628" height="335" />
+	<SubTexture name="deathloop0006" x="628" y="1006" width="628" height="335" />
+	<SubTexture name="deathloop0007" x="628" y="1006" width="628" height="335" />
+	<SubTexture name="deathloop0008" x="628" y="1006" width="628" height="335" />
+	<SubTexture name="deathloop0009" x="628" y="1006" width="628" height="335" />
+	<SubTexture name="deathloop0010" x="628" y="1006" width="628" height="335" />
+	<SubTexture name="deathloop0011" x="628" y="1006" width="628" height="335" />
+	<SubTexture name="deathloop0012" x="628" y="1006" width="628" height="335" />
+	<SubTexture name="firstdeath0000" x="0" y="0" width="628" height="335" pivotX="0" pivotY="0" />
+	<SubTexture name="firstdeath0001" x="628" y="0" width="628" height="335" />
+	<SubTexture name="firstdeath0002" x="1257" y="0" width="628" height="335" />
+	<SubTexture name="firstdeath0003" x="1885" y="0" width="628" height="335" />
+	<SubTexture name="firstdeath0004" x="2514" y="0" width="628" height="335" />
+	<SubTexture name="firstdeath0005" x="3142" y="0" width="628" height="335" />
+	<SubTexture name="firstdeath0006" x="0" y="335" width="628" height="335" />
+	<SubTexture name="firstdeath0007" x="628" y="335" width="628" height="335" />
+	<SubTexture name="firstdeath0008" x="1257" y="335" width="628" height="335" />
+	<SubTexture name="firstdeath0009" x="1885" y="335" width="628" height="335" />
+	<SubTexture name="firstdeath0010" x="2514" y="335" width="628" height="335" />
+	<SubTexture name="firstdeath0011" x="3142" y="335" width="628" height="335" />
+	<SubTexture name="firstdeath0012" x="0" y="671" width="628" height="335" />
+	<SubTexture name="firstdeath0013" x="628" y="671" width="628" height="335" />
+	<SubTexture name="firstdeath0014" x="1257" y="671" width="628" height="335" />
+	<SubTexture name="firstdeath0015" x="1885" y="671" width="628" height="335" />
+	<SubTexture name="firstdeath0016" x="2514" y="671" width="628" height="335" />
+	<SubTexture name="firstdeath0017" x="3142" y="671" width="628" height="335" />
+	<SubTexture name="firstdeath0018" x="0" y="1006" width="628" height="335" />
+	<SubTexture name="firstdeath0019" x="628" y="1006" width="628" height="335" />
+	<SubTexture name="lastdeath0000" x="628" y="1006" width="628" height="335" pivotX="0" pivotY="0" />
+	<SubTexture name="lastdeath0001" x="0" y="1006" width="628" height="335" />
+	<SubTexture name="lastdeath0002" x="3142" y="671" width="628" height="335" />
+	<SubTexture name="lastdeath0003" x="2514" y="671" width="628" height="335" />
+	<SubTexture name="lastdeath0004" x="1885" y="671" width="628" height="335" />
+	<SubTexture name="lastdeath0005" x="1257" y="671" width="628" height="335" />
+	<SubTexture name="lastdeath0006" x="628" y="671" width="628" height="335" />
+	<SubTexture name="lastdeath0007" x="0" y="671" width="628" height="335" />
+	<SubTexture name="lastdeath0008" x="3142" y="335" width="628" height="335" />
+	<SubTexture name="lastdeath0009" x="2514" y="335" width="628" height="335" />
+	<SubTexture name="lastdeath0010" x="1885" y="335" width="628" height="335" />
+	<SubTexture name="lastdeath0011" x="1257" y="335" width="628" height="335" />
+	<SubTexture name="lastdeath0012" x="628" y="335" width="628" height="335" />
+	<SubTexture name="lastdeath0013" x="0" y="335" width="628" height="335" />
+	<SubTexture name="lastdeath0014" x="3142" y="0" width="628" height="335" />
+	<SubTexture name="lastdeath0015" x="2514" y="0" width="628" height="335" />
+	<SubTexture name="lastdeath0016" x="1885" y="0" width="628" height="335" />
+	<SubTexture name="lastdeath0017" x="1257" y="0" width="628" height="335" />
+	<SubTexture name="lastdeath0018" x="628" y="0" width="628" height="335" />
+	<SubTexture name="lastdeath0019" x="0" y="0" width="628" height="335" />
+</TextureAtlas>

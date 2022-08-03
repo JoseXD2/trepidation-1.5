@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "blank",
+	"weekBefore": "weeks",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"que",
+		"vig"
+	],
+	"songs": [
+		[
+			"ever dream this guy",
+			"guy",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "weekidk"
+}
